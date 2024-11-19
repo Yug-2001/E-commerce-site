@@ -24,3 +24,4 @@ This project includes HTML for structure, CSS for styling, and Font Awesome icon
 1. **Clone the repository** to your local machine:
    ```bash
    git clone https://github.com/yourusername/pantry-corner.git
+
